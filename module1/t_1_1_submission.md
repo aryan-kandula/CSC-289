@@ -10,6 +10,7 @@
 
 ## Evidence
 - Screenshot or output of verify_environment.py:
+```
 ==================================================
 ALGOCRATIC FUTURES™ ENVIRONMENT VALIDATION
 ==================================================
@@ -24,8 +25,9 @@ STATUS: PASSED
 MESSAGE: Environment validated successfully.
 
 ==================================================
-Environment validated for: Aryan Kandula
+Environment validated for: ARYAN KANDULA
 ==================================================
+```
 
 ## Collaboration
 - Link to PR review, help request, or help given:
