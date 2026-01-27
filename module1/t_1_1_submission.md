@@ -25,7 +25,7 @@ STATUS: PASSED
 MESSAGE: Environment validated successfully.
 
 ==================================================
-Environment validated for: ARYAN KANDULA
+Environment validated for: ARYAN_KANDULA
 ==================================================
 ```
 
