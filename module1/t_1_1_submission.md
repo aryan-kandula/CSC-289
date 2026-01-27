@@ -6,7 +6,7 @@
 - Issue C (Validate Dev Environment – CLOSED): https://github.com/aryan-kandula/CSC-289/issues/5
 
 ## Pull Request
-- Merged PR: https://github.com/aryan-kandula/CSC-289/pull/2
+- Merged PR: https://github.com/aryan-kandula/CSC-289/pull/6
 
 ## Evidence
 - Screenshot or output of verify_environment.py:
@@ -31,4 +31,4 @@ Environment validated for: ARYAN_KANDULA
 
 ## Collaboration
 - Link to PR review, help request, or help given:
-  - https://github.com/aryan-kandula/CSC-289/pull/2#issuecomment-3802495429
+  - https://github.com/aryan-kandula/CSC-289/pull/6#issuecomment-3802748311
