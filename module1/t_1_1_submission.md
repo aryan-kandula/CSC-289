@@ -10,7 +10,22 @@
 
 ## Evidence
 - Screenshot or output of verify_environment.py:
-  - N/A (no file needed for this assignment
+==================================================
+ALGOCRATIC FUTURES™ ENVIRONMENT VALIDATION
+==================================================
+
+SYSTEM DIAGNOSTICS:
+  Python Version: 3.10.12
+  Platform: Windows
+  Machine: AMD64
+  Timestamp: 2026-01-26 19:12:00
+
+STATUS: PASSED
+MESSAGE: Environment validated successfully.
+
+==================================================
+Environment validated for: Aryan Kandula
+==================================================
 
 ## Collaboration
 - Link to PR review, help request, or help given:
