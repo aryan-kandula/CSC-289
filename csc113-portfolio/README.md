@@ -1,3 +1,5 @@
+# Note: This assignment was originally from CSC113, included here for CSC289 submission.
+
 #### Week 2: AI Tools & First Collaborations
 **Date**: Jan 20 – Jan 26, 2026
 
