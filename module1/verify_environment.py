@@ -45,7 +45,7 @@ def validate_environment():
     
     # The proof of completion
     print("=" * 50)
-    print("Environment validated for: ARYAN KANDULA")
+    print("Environment validated for: ARYAN_KANDULA")
     print("=" * 50)
     
     return status == "PASSED"
