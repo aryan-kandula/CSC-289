@@ -1,4 +1,4 @@
-# CSC-289 Repository
+# CSC-289 Programming Capstone Project Repository
 
 ## 📘 Overview
 
